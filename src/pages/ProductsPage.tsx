@@ -1,6 +1,6 @@
 // src/pages/ProductsPage.tsx
 
-import { useState, useMemo }  from 'react'
+import { useMemo }  from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 
 interface Product {
